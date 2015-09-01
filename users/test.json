@@ -1,0 +1,25 @@
+{
+	"tenant": "1441072441114",
+	"login": "test",
+	"roles": {
+		"list": [
+			"guest",
+			"shared_guest"
+		],
+		"default": "guest"
+	},
+	"rights": [],
+	"email": null,
+	"type": "",
+	"lastName": "Test",
+	"firstName": "Test",
+	"kind": "application",
+	"application": "oraxidream",
+	"_id": "55e50a812f7fbc2a36d1701a",
+	"pass": "muirbeach1",
+	"versioning": {
+		"status": "committed",
+		"user": "https://bluemix.marketplace.ibmcloud.com/openid/id/2cafb513-73ab-4778-ab3f-e18ad05793a0",
+		"last_action": "1441073794"
+	}
+}
