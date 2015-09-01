@@ -1,0 +1,72 @@
+{
+	"_id": "55e505a82f7fbc2a36d1700f",
+	"name": "oraxidream",
+	"ownerId": "",
+	"requestDate": "",
+	"title": "oraxidream",
+	"applicationContext": [
+		{
+			"properties": [
+				{
+					"possibleValues": [],
+					"name": "selectedItem",
+					"value": ""
+				}
+			],
+			"object": "menu"
+		}
+	],
+	"github": {
+		"token": "",
+		"username": "",
+		"repository": ""
+	},
+	"phonegap": {
+		"token": "",
+		"applicationId": ""
+	},
+	"requiredLibraries": [],
+	"requiredStylesheets": [
+		{
+			"name": "_gc"
+		},
+		{
+			"name": "_ext"
+		}
+	],
+	"screenflow": [
+		{
+			"name": "Guest",
+			"left": "85",
+			"connections": [
+				{
+					"assertions": [],
+					"name": "Home"
+				}
+			],
+			"type": "http_guest",
+			"top": "150"
+		},
+		{
+			"name": "Home",
+			"left": "330",
+			"connections": [],
+			"type": "screen",
+			"top": "165"
+		}
+	],
+	"start": "Home",
+	"visibility": "visible",
+	"creationDate": "2015-09-01T01:55:52.930Z",
+	"active": true,
+	"version": "1.0",
+	"platform": "web",
+	"personalization": {
+		"template": "Standard"
+	},
+	"versioning": {
+		"status": "committed",
+		"user": "https://bluemix.marketplace.ibmcloud.com/openid/id/2cafb513-73ab-4778-ab3f-e18ad05793a0",
+		"last_action": "1441074765"
+	}
+}
