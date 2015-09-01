@@ -1,0 +1,15 @@
+{
+	"_id": "55e505ab2f7fbc2a36d17015",
+	"title": "Home",
+	"name": "Home",
+	"requestDate": "2015-09-01T01:55:55.941Z",
+	"ownerId": "",
+	"application": "oraxidream",
+	"parentname": "",
+	"order": "0",
+	"icon": "home",
+	"action": {
+		"type": "screen",
+		"value": "Home"
+	}
+}
